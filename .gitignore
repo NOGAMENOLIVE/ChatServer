@@ -1,0 +1,9 @@
+*/.settings/
+*/.DS_Store
+.DS_Store
+*/.idea/
+.idea/
+*.iml
+*/*.iml
+/game-server/node_modules/
+/web-server/
